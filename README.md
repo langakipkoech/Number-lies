@@ -1,0 +1,2 @@
+# Number-lies
+Analyzing Amazon Data  Figured out the total amount of money you’ve spent on Amazon, ever.  Found your most and least expensive orders, and your average and median order totals.  Figured out how much you’ve paid in taxes, and your effective sales tax rate on Amazon.  Visualized your spending habits day-by-day in a bar graph.  Customized some elements of the bar graph, like size and colors
